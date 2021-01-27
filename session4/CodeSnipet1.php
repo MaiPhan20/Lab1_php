@@ -1,0 +1,17 @@
+<HTML>
+<BODY>
+<B>ENTER YOUR PERSONAL DETAILS</B>
+<FORM METHOD=GET ACTION="CodeSnipet1.php">
+    FIRST NAME:
+    <INPUT NAME="n1text" TYPE="TEXT"><BR>
+    LAST NAME:
+    <INPUT NAME="n2text" TYPE="TEXT"><BR>
+    ADDRESS:
+    <TEXTAREA NAME="n3text" ROWS=1, COLUMNS=1000></TEXTAREA>
+    <BR>
+    CONTACT NO:
+    <INPUT NAME="n4text" type="text"><br>
+    <INPUT type="SUBMIT" NAME="SUBMIT" VALUE="SUBMIT">
+</FORM>
+</BODY>
+</HTML>
